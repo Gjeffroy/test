@@ -11,7 +11,7 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 github : 
   user : Gjeffroy
-  repo : ddp-week4
+  repo : test
 ---
 
 
@@ -32,37 +32,6 @@ Auroville (City of Dawn) is an experimental township in Viluppuram district most
 Where does the aurovilian come from?
 
 
-```
-## Error: FileNotFoundException (Java): File 'AuroDemo.xlsx' could not be found - you may specify to automatically create the file if not existing.
-```
-
-```
-## Error in readWorksheet(book, sheet = "clean data"): error in evaluating the argument 'object' in selecting a method for function 'readWorksheet': Error: object 'book' not found
-```
-
-```
-## Error: FileNotFoundException (Java): File 'nationality.xlsx' could not be found - you may specify to automatically create the file if not existing.
-```
-
-```
-## Error in readWorksheet(book_nationality, sheet = 1): error in evaluating the argument 'object' in selecting a method for function 'readWorksheet': Error: object 'book_nationality' not found
-```
-
-```
-## Error in eval(expr, envir, enclos): object 'data_cl' not found
-```
-
-```
-## Error in eval(expr, envir, enclos): object 'count_nationality' not found
-```
-
-```
-## Error in as.list(data): object 'count_country' not found
-```
-
-```
-## Error in plot(G): object 'G' not found
-```
 
 
 
